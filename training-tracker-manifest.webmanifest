@@ -1,0 +1,20 @@
+{
+  "name": "Training Tracker",
+  "short_name": "Training",
+  "description": "Rowing training, load, health, and race goal tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f6f2",
+  "theme_color": "#1D9E75",
+  "icons": [
+    {
+      "src": "./training-tracker-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "sports", "productivity"]
+}
